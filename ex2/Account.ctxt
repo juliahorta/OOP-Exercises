@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Account
+comment0.text=\n\ @julia\n\ @15/01/19\n
+comment1.params=initialBalance
+comment1.target=Account(double)
+comment2.params=amount
+comment2.target=void\ deposit(double)
+comment3.params=amount
+comment3.target=void\ withdraw(double)
+comment4.params=
+comment4.target=double\ getBalance()
+comment5.params=rate
+comment5.target=void\ setInterest(double)
+comment6.params=
+comment6.target=double\ getInterest()
+comment7.params=n
+comment7.target=void\ computeInterest(int)
+numComments=8

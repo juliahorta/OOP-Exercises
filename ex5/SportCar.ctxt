@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SportCar
+comment1.params=hp\ w\ ts
+comment1.target=SportCar(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getTopSpeed()
+comment3.params=
+comment3.target=void\ FuelConsumption()
+comment4.params=
+comment4.target=double\ getFuelConsumption()
+numComments=5
